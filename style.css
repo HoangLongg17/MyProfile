@@ -1,0 +1,63 @@
+h1 {
+
+    color: black;
+}
+body, html {
+
+    margin: 0;
+    padding: 0;
+
+}
+body {
+
+    background: url(./anhnen4.gif) no-repeat center center fixed;
+    background-size: cover;
+}
+img {
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 300px;
+    height: 250px;
+}
+header {
+    text-align: center;
+    border-radius: 100%;
+}
+#about {
+    border-width: 200px;
+    background-color:rgba(44, 42, 42, 0.171);
+    padding: 10px;
+    color:black;
+    border-bottom: 100px;
+    width: 400px;
+}
+#gioithieu {
+    border-style: hidden ;
+    width: 400px;
+    font-size: x-large;
+    color: black(200,200,200);
+    padding: 10px;
+    background-color: wheat;
+}
+#sothich {
+    border-style: hidden ;
+    width: 400px;
+    font-size: x-large;
+    color: black(200,200,200);
+    padding: 10px;
+    background-color: wheat
+}
+#listsothich {
+    text-align: left;
+    border-radius: 20px;
+    width: 400px;
+    height: 200px;
+    background-color: rgba(160, 122, 247, 0.451);
+    margin-bottom: 30px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+h2 {
+    color: blue;
+}
